@@ -2,6 +2,9 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.9.
 
+## Description
+Answer a technical test in Angular. Using the fakestoreapi API (https://fakestoreapi.com), a user interface was developed that lists a set of products in a table (data is consumed from the API). In turn, the products can be filtered and allowed to work with them (CRUD).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
